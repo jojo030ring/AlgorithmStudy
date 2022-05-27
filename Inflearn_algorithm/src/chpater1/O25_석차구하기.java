@@ -18,6 +18,6 @@ public class O25_석차구하기 {
 		
 	}
 	private static int[] initArray(StringTokenizer st, int n) {
-		
+		return null;
 	}
 }
